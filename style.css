@@ -1,0 +1,57 @@
+
+        nav{
+            background-color: rgb(247, 141, 157);
+        }
+        .h1{
+            background-color: rgb(247, 141, 157);
+            text-align: center;
+            color: rgb(32, 30, 30); 
+            font-family: Arial, Helvetica, sans-serif;        
+        }
+        ul{
+            margin: 0;
+            padding: 0%;
+            overflow: hidden;
+            list-style-type: none;
+        }
+        li{
+     
+            float: right;
+            display: block;
+            color: rgb(32, 30, 30);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+       
+        li:hover{
+            background-color: rgb(233, 208, 212);
+        }
+        li a{
+            display: block;
+            color: yellow;
+            text-align: center; 
+            padding: 14px;
+            text-decoration: none;
+        }
+        
+
+        main{
+            color: rgb(32, 30, 30);
+            background-color: lightpink;
+            text-align:start;
+        }
+        .body{
+            background-color: rgb(250, 203, 203);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        footer{
+            background-color: lightpink;
+            text-align: center;
+         
+        }
+
+        button{
+            background-color: pink;
+
+        }
