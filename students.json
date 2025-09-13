@@ -1,0 +1,19 @@
+{
+    "student": [
+        {
+            "name": "Maria",
+            "age": 20,
+            "course": "BSIT"
+        },
+        {
+            "name": "John",
+            "age": 21,
+            "course": "BSCS"
+        },
+        {
+            "name": "Alex",
+            "age": 22,
+            "course": "BSIS"
+        }
+    ]
+}
